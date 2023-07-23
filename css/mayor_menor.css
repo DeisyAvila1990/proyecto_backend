@@ -1,0 +1,26 @@
+body{
+    background: url('https://previews.123rf.com/images/etoileark/etoileark1701/etoileark170101938/70274827-gran-concepto-de-datos-de-dibujos-animados-lindo-pc-tableta-digital-retenci%C3%B3n-lupa.jpg');
+    background-size: cover;
+
+}
+.main-frame-cal{
+    width: 50%;
+    padding: 50px;
+    height: 450px;
+    border-radius: 30px;
+    background-color: rgba(175, 240, 246, 0.979);
+    box-shadow: 0px 0px 20px 0px rgba(110, 110, 110, 0.775);
+    margin: 7% auto;
+}
+.main-frame-cal label{
+    font-weight: bold;
+}
+button{
+    float: right;
+}
+.home{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+}
